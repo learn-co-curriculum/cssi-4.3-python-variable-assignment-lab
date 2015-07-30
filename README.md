@@ -1,9 +1,4 @@
----
-tags: kids, variables, strings
-languages: python
-level: 1
-type: lab
----
+
 ##Mini-Lab: Variables Practice
 
 ###What is a Variable?
